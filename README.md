@@ -451,7 +451,7 @@ A checkmark means **required for future acceptance**, not that testing has passe
 
 **Architecture and documentation planning.** No PCB design or firmware compatibility test is represented as completed by this README. Each subvariant will have an independent status in its `board.yaml` and release documentation.
 
-## References, License, and Maintainers
+## References, License, Contributing and Maintainers
 
 ### Related AI-Now repositories
 
@@ -466,7 +466,7 @@ A checkmark means **required for future acceptance**, not that testing has passe
 - [KiCad](https://www.kicad.org/)
 - [OSHPark fabrication documentation](https://docs.oshpark.com/)
 
-📜 License
+### 📜 License
 This repository uses dual licensing to properly cover both hardware designs and soft/firmware components:
 
 Hardware Designs (/hardware directory & schematic files):
@@ -483,7 +483,7 @@ Firmware Source Code (/firmware directory):
 
 Licensed under the GNU General Public License v3.0 (GPL-3.0).
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Please open an issue to discuss proposed schematic changes or submit a pull request for firmware enhancements and documentation fixes.
 ### Maintainer
