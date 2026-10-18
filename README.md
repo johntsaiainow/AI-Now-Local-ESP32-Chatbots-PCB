@@ -466,10 +466,26 @@ A checkmark means **required for future acceptance**, not that testing has passe
 - [KiCad](https://www.kicad.org/)
 - [OSHPark fabrication documentation](https://docs.oshpark.com/)
 
-### License
+📜 License
+This repository uses dual licensing to properly cover both hardware designs and soft/firmware components:
 
-**To be determined.** No open-source hardware license is implied until a `LICENSE` file is selected and committed. Third-party components and libraries retain their respective terms.
+Hardware Designs (/hardware directory & schematic files):
 
+Licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S).
+
+You are free to copy, modify, and distribute these hardware files, provided that any derivative designs are also shared under the CERN-OHL-S license.
+
+Documentation & Media (/docs directory & visual assets):
+
+Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+Firmware Source Code (/firmware directory):
+
+Licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+🤝 Contributing
+
+Contributions are welcome! Please open an issue to discuss proposed schematic changes or submit a pull request for firmware enhancements and documentation fixes.
 ### Maintainer
 
 **AI-Now Technology, Inc. — Hardware and Embedded AI Engineering**
